@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec5be6c4-a76d-4680-9575-1ceecd82eca7" name="Default Changelist" comment="sec">
+      <change afterPath="$PROJECT_DIR$/newproj/venv/ravi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ravitejapallapolu &lt;ravirockspallpolu@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ij1gDxHaamuBrEx4CmHhdNKyxA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KARTHIK\PycharmProjects\pythonProject\newproj\venv" />
+      <recent name="C:\Users\KARTHIK\PycharmProjects\pythonProject\newproj\venv\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newproj/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newproj/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\KARTHIK\PycharmProjects\pythonProject\newproj\venv\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ravi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newproj/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newproj/venv/ravi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.ravi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5be6c4-a76d-4680-9575-1ceecd82eca7" name="Default Changelist" comment="" />
+      <created>1602406308831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602406308831</updated>
+    </task>
+    <task id="LOCAL-00001" summary="sec">
+      <created>1602512464483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512464534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sec">
+      <created>1602512809065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512809065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <MESSAGE value="sec" />
+    <option name="LAST_COMMIT_MESSAGE" value="sec" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="188" key="#Notifications" timestamp="1602512344989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602512344989" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1602512982658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1602512982658" />
+    <state x="574" y="115" key="FileChooserDialogImpl" timestamp="1602510918233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="574" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602510918233" />
+    <state x="551" y="262" key="Github.ShareDialog" timestamp="1602512213951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1602512213951" />
+    <state x="462" y="69" key="Github.UntrackedFilesDialog" timestamp="1602512259116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602512259116" />
+    <state width="1308" height="156" key="GridCell.Tab.0.bottom" timestamp="1602512277356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602512277356" />
+    <state width="1308" height="156" key="GridCell.Tab.0.center" timestamp="1602512277259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602512277259" />
+    <state width="1308" height="156" key="GridCell.Tab.0.left" timestamp="1602512277221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602512277221" />
+    <state width="1308" height="156" key="GridCell.Tab.0.right" timestamp="1602512277326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602512277326" />
+    <state width="1308" height="204" key="GridCell.Tab.1.bottom" timestamp="1602495587480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602495587480" />
+    <state width="1308" height="204" key="GridCell.Tab.1.center" timestamp="1602495587480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602495587480" />
+    <state width="1308" height="204" key="GridCell.Tab.1.left" timestamp="1602495587480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602495587480" />
+    <state width="1308" height="204" key="GridCell.Tab.1.right" timestamp="1602495587480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602495587480" />
+    <state x="295" y="5" key="SettingsEditor" timestamp="1602510951949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602510951949" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602513103494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602513103494" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602512385749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602512385749" />
+    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602495350285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1602495350285" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602494546737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602494546737" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/newproj/venv/main.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newproj/venv/main.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

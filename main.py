@@ -1,4 +1,4 @@
-from flask import Flask, redirect, url_for, render_template, request
+from flask import Flask, redirect, url_for, render_template, request,abort
 
 # Initialize the Flask application
 app = Flask(__name__,template_folder='../Redirect')
@@ -11,9 +11,14 @@ def index():
 
 @app.route('/login', methods=['POST', 'GET'])
 def login():
-    if request.method == 'POST' and request.form['username'] == 'admin':
-        name = request.form['username']
-        return redirect(url_for('success',name=name))
+    if request.method == 'POST' :
+        if request.form['username'] == 'admin':
+            name = request.form['username']
+            return redirect(url_for('success',name=name))
+        else :
+
+            abort(403)
+
     else:
         return redirect(url_for('index'))
 
